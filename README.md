@@ -36,7 +36,7 @@
   <a href="https://bsky.app/profile/will-olv.bsky.social" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" width="52" height="40" alt="bluesky logo"  />
   </a>
-  <a href="twitter.com" target="_blank">
+  <a href="https://x.com/willolv_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
